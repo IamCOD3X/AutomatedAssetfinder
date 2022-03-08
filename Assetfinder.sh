@@ -4,7 +4,7 @@ echo ${purple}"
 # Title: Automated Assetfinder
 # Author: CODEX
 ################USAGE#################
-# Eg.: ./subgather.sh google.com
+# Eg.: ./Assetfinder.sh google.com
 "
 echo -e "\n"
 echo -e "\n"
